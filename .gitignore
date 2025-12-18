@@ -12,7 +12,7 @@ dist/
 
 # Misc
 .DS_Store
-.env
+# .env  //intentenally done for project work check
 .env.local
 .env.development.local
 .env.test.local
